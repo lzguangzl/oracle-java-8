@@ -1,4 +1,4 @@
-package java;
+package javaclassstructure;
 
 /* Class */
 public class Employee {
