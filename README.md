@@ -17,3 +17,40 @@ Language
 * Main method
 * Comments
 * Packages and imports
+* Naming conflicts and code formatting
+* Static imports
+* Understanding primitive data types
+* Whole numeric primitives
+* Decimal numeric primitives
+* Primitive char and boolean
+* Declaring and initializing variables
+* Understanding default initialization of primitives
+* Variable scope
+* Ordering elements in class
+* Understanding null
+* Primitive wrapper types
+* Java benefits
+* Question examples
+
+#### Operators
+* Understanding operators
+* Arithmetic operators
+* Numeric promotion and casting
+* Unary operators
+* Assignment operators
+* Compound assignment operators
+* Relational operators
+* Conditional operators
+* Equality operators
+* Understanding == and equals() method
+* Character arithmetic
+* Question examples
+
+#### Basic Control Flow
+* If Else statement
+* Ternary operator
+* Switch statement
+* While loop
+* Do While loop
+* For loop
+* Question examples
